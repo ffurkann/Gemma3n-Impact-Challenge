@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Common Cold",
+    "symptoms": "runny nose, sneezing, sore throat, mild cough",
+    "what_to_do": "Rest, drink fluids, use over-the-counter decongestants if needed.",
+    "max_duration": "7 days"
+  },
+  {
+    "name": "Flu (Influenza)",
+    "symptoms": "high fever, chills, body aches, fatigue, dry cough",
+    "what_to_do": "Rest, hydration, antiviral meds if early; seek care if breathing issues.",
+    "max_duration": "10 days"
+  },
+  {
+    "name": "Stomach Flu (Gastroenteritis)",
+    "symptoms": "nausea, vomiting, diarrhea, stomach cramps",
+    "what_to_do": "Hydrate with electrolytes, eat light foods, rest. Seek help if persistent.",
+    "max_duration": "5 days"
+  },
+  {
+    "name": "Migraine",
+    "symptoms": "throbbing headache, sensitivity to light, nausea, vision disturbance",
+    "what_to_do": "Stay in dark, quiet room. Use migraine-specific medication or painkillers.",
+    "max_duration": "72 hours"
+  },
+  {
+    "name": "Allergic Reaction (Mild)",
+    "symptoms": "itchy eyes, sneezing, skin rash, runny nose",
+    "what_to_do": "Take antihistamines. Avoid allergen. Seek help if swelling increases.",
+    "max_duration": "3 days"
+  },
+  {
+    "name": "Heartburn / Acid Reflux",
+    "symptoms": "burning chest pain, sour taste, worse when lying down",
+    "what_to_do": "Avoid spicy/fatty food. Use antacids. Sleep with head elevated.",
+    "max_duration": "2 days"
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "symptoms": "burning when peeing, urge to pee often, lower belly pain",
+    "what_to_do": "Drink water, seek antibiotics from a clinic. Avoid caffeine.",
+    "max_duration": "7 days"
+  },
+  {
+    "name": "Dehydration",
+    "symptoms": "dry mouth, dizziness, headache, dark urine",
+    "what_to_do": "Drink water or electrolyte solutions. Rest in cool place.",
+    "max_duration": "1 day"
+  },
+  {
+    "name": "Heatstroke",
+    "symptoms": "very hot skin, no sweating, confusion, rapid pulse",
+    "what_to_do": "Cool person down immediately. Call emergency services.",
+    "max_duration": "Emergency – act fast"
+  },
+  {
+    "name": "Anxiety Attack",
+    "symptoms": "tingling, chest tightness, rapid breathing, sense of doom",
+    "what_to_do": "Breathe slowly, sit down, talk to someone if possible. Ground yourself.",
+    "max_duration": "30 minutes to 1 hour"
+  }
+]
