@@ -256,7 +256,14 @@ def main():
     os.makedirs('Memory', exist_ok=True)
     os.makedirs('Knowledge', exist_ok=True)
 
-    ui.run(title='Gemm-Aid', favicon='🏥', dark=False, storage_secret='gemm-aid-secret-key')
+    ui.run(
+        title='Gemm-Aid',
+        favicon='+',
+        dark=False,
+        storage_secret='gemm-aid-secret-key',
+        host='0.0.0.0',
+        port=8080
+    )
 
 
 if __name__ in {"__main__", "__mp_main__"}:
